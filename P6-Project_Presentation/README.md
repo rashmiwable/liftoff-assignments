@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.https://docs.google.com/presentation/d/1pl3cSzXKsiHsKCZRVyaMgPOPL-VwxlzmFKAxfFVG2JY/edit#slide=id.g274a2c8ef6_0_0
